@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sofia Rojas Aristizabal
 
-<!--
-**sofirojas-ai/sofirojas-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biology student at the University of Central Florida transitioning into Data Science and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## Interests
+- Healthcare data science
+- Machine learning
+- Biomedical data analysis
+- Artificial intelligence in healthcare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Healthcare Data Analysis  
+  https://github.com/sofirojas-ai/healthcare-data-analysis
+
+- Diabetes Risk Analysis  
+  https://github.com/sofirojas-ai/diabetes-risk-analysis
+
+## Tools
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
